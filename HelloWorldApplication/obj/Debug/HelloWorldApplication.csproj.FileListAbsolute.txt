@@ -1,0 +1,7 @@
+D:\GithubProjects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+D:\GithubProjects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+D:\GithubProjects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+D:\GithubProjects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.csprojResolveAssemblyReference.cache
+D:\GithubProjects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.csproj.CoreCompileInputs.cache
+D:\GithubProjects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+D:\GithubProjects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb
